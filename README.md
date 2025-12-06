@@ -109,8 +109,8 @@ Scatter plots showing which campaigns deliver the most value.
 Data Analyst | Power BI Developer | Python Enthusiast
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gulshankryadav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ygulshan095@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/gulshan-kumar-b703bb322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:m.gkyadav2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
