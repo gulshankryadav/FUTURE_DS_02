@@ -15,11 +15,8 @@
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH_HERE" width="90%" />
+  <img src="https://github.com/gulshankryadav/FUTURE_DS_02/blob/3c25326e389dfd32a7c48b99f85c2780875cca31/Screenshot%202025-12-02%20071823.png" width="90%" />
 </p>
-
-> Replace `YOUR_IMAGE_PATH_HERE` with your screenshot path  
-Example: `./assets/facebook_dashboard.png`
 
 ---
 
@@ -74,5 +71,50 @@ This dashboard provides end-to-end analytics for **Facebook marketing campaigns*
 
 ---
 
-## 📂 Project Structure
+
+## 📘 Dashboard Sections Explained
+
+### 🔹 **Spend, Clicks, Impressions Overview**
+Quick view of total advertising performance metrics.
+
+### 🔹 **Conversion Analytics**
+Tracks approved conversions vs. reporting cycles.
+
+### 🔹 **Time by Report Period**
+Breakdown of campaign performance by reporting date.
+
+### 🔹 **Top 5 Campaigns**
+- By spend  
+- By clicks  
+- By impressions  
+
+### 🔹 **ROI & CTR Analysis**
+Scatter plots showing which campaigns deliver the most value.
+
+---
+
+## 🤝 How to Use the Dashboard
+
+1. Download the `.pbix` file  
+2. Open it in **Power BI Desktop**  
+3. Interact with filters (Age, Gender, Campaign IDs)  
+4. Analyze high-performing vs. low-performing campaigns  
+5. Use insights to improve your ad strategy
+
+---
+
+## ⭐ About the Creator
+
+**Gulshan Yadav**  
+Data Analyst | Power BI Developer | Python Enthusiast
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gulshankryadav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ygulshan095@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## ⭐ Support  
+If you found this project useful, don't forget to ⭐ star the repo!
 
